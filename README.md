@@ -5,7 +5,19 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Hej! Jag heter Alaa Rachid, och jag är 23 år gammal.
 
+Jag studerar datateknik och mobil IT vid Malmö universitet, där jag får möjlighet att fördjupa mig i teknologi och innovation. Min utbildning har gett mig en stark grund inom programmering, systemutveckling och IT-lösningar, och jag är passionerad när det kommer till att skapa effektiva och användarvänliga applikationer.
+
+För närvarande arbetar jag inom IT-branschen, där jag får praktisk erfarenhet av de kunskaper jag har lärt mig under min utbildning. Jag trivs i den dynamiska miljön som IT erbjuder, där jag kontinuerligt kan lära mig och växa professionellt.
+
+Innan jag började min utbildning i datateknik, hade jag förmånen att arbeta med Röda Korset. Denna erfarenhet var ovärderlig, eftersom jag fick insikt i hur teknologi kan användas för att hjälpa människor i nöd och stödja viktiga samhällsinitiativ. Att arbeta med ett så viktigt uppdrag har inspirerat mig att använda mina tekniska färdigheter för att göra en positiv skillnad i samhället.
+
+Mitt intresse för programmering är en stor del av vem jag är. Jag älskar att skapa nya program och lösa komplexa problem genom kodning. Jag ser varje projekt som en möjlighet att lära mig mer och utmana mig själv. Det är detta intresse som driver mig att genomföra uppgifter som den här, där jag får möjlighet att tillämpa mina kunskaper i HTML och webbdesign.
+
+I min fritid tycker jag om att utforska olika programmeringsspråk och delta i onlinekurser för att förbättra mina färdigheter. Jag är alltid på jakt efter nya utmaningar och sätt att växa inom mitt område.
+
+Tack för att du läste min presentation! Jag ser fram emot att fortsätta utvecklas och bidra till spännande IT-projekt i framtiden.
 <!---<!DOCTYPE html>
 <html lang="sv">
     <head>
@@ -25,12 +37,7 @@
         <h3>Mitt intresse för programmering</h3>
         <p>Jag älskar att programmera och utveckla lösningar som kan göra vardagen enklare för både företag och privatpersoner. Just nu arbetar jag mycket med webbutveckling och har ett särskilt fokus på hållbar teknik.</p>
 
-        <!-- 4. Intresse för PostNords returhantering -->
-        <h3>Mitt intresse för PostNords returhantering</h3>
-        <p>PostNords retursystem är något som fascinerar mig. Deras effektiva hantering av returer spelar en viktig roll i dagens e-handel, och jag är intresserad av hur teknologiska lösningar kan förbättra och effektivisera denna process.</p>
-
-        <!-- 5. Länk till PostNords hemsida -->
-        <p>För mer information om PostNords tjänster och returhantering, besök deras <a href="https://www.postnord.se" target="_blank" rel="noopener noreferrer">hemsida</a>.</p>
+    
 
         <!-- 6. Sociala profiler -->
         <h3>Mina sociala profiler</h3>
